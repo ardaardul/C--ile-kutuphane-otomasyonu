@@ -1,0 +1,9 @@
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.DataAccess\bin\Debug\Kutuphane.DataAccess.exe.config
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.DataAccess\bin\Debug\Kutuphane.DataAccess.exe
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.DataAccess\bin\Debug\Kutuphane.DataAccess.pdb
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.csproj.AssemblyReference.cache
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.Properties.Resources.resources
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.csproj.GenerateResource.cache
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.exe
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.pdb

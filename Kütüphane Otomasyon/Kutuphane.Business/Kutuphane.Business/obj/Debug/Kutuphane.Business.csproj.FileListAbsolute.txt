@@ -1,0 +1,13 @@
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.Business\bin\Debug\Kutuphane.Business.exe.config
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.Business\bin\Debug\Kutuphane.Business.exe
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.Business\bin\Debug\Kutuphane.Business.pdb
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.Business\bin\Debug\Kutuphane.DataAccess.exe
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.Business\bin\Debug\Kutuphane.DataAccess.pdb
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.Business\bin\Debug\Kutuphane.DataAccess.exe.config
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.Business\obj\Debug\Kutuphane.Business.csproj.AssemblyReference.cache
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.Business\obj\Debug\Kutuphane.Business.Properties.Resources.resources
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.Business\obj\Debug\Kutuphane.Business.csproj.GenerateResource.cache
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.Business\obj\Debug\Kutuphane.Business.csproj.CoreCompileInputs.cache
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.Business\obj\Debug\Kutuphane.Business.csproj.CopyComplete
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.Business\obj\Debug\Kutuphane.Business.exe
+C:\Users\macbook\OneDrive\Masaüstü\Kütüphane Otomasyon\Kutuphane.Business\Kutuphane.Business\obj\Debug\Kutuphane.Business.pdb
